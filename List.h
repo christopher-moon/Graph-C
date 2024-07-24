@@ -1,7 +1,3 @@
-//Christopher Moon
-//ckmoon
-//pa2
-
 #ifndef __LINKEDLIST_H__
 #define __LINKEDLIST_H__
 //#include "Graph.h"
