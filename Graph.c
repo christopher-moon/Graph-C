@@ -1,7 +1,3 @@
-//Christopher Moon
-//ckmoon
-//pa2
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
