@@ -1,7 +1,3 @@
-//Christopher Moon
-//ckmoon
-//pa2
-
 #ifndef __GRAPH_H__
 #define __GRAPH_H__
 
