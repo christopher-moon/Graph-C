@@ -10,4 +10,4 @@ FILES
 
 RUNNING GRAPHTEST
 
-  ./GraphTest "infile.txt" "outfile.txt"
+    ./GraphTest "infile.txt" "outfile.txt"
